@@ -5,11 +5,13 @@ Curse of Dimensionality
 
 This demonstrates through a curve how distance amongst data points becomes insignificant as the number of dimensions increases
 
+
 Movie Recommendation System
 
 This project has two implementations for a recommendation algorithm.
 The first one is a Naive Algorithm which averages the ratings for a movie not seen.
 The second algorithm "Recommendation.py" uses a model which factors in the age and gender to generate predictions using K Nearest Neighbours (K=100)
+
 
 Decision Tree Classification System
 
