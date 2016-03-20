@@ -1,19 +1,17 @@
 # Data-Mining
 These are the projects I have done related to Data Mining
 
-Curse of Dimensionality
+**Curse of Dimensionality**
 
 This demonstrates through a curve how distance amongst data points becomes insignificant as the number of dimensions increases
 
-
-Movie Recommendation System
+**Movie Recommendation System**
 
 This project has two implementations for a recommendation algorithm.
 The first one is a Naive Algorithm which averages the ratings for a movie not seen.
 The second algorithm "Recommendation.py" uses a model which factors in the age and gender to generate predictions using K Nearest Neighbours (K=100)
 
-
-Decision Tree Classification System
+**Decision Tree Classification System**
 
 This system builds a decision tree classifier for the given data set and predicts accuracy using 10 fold cross validation. 
 The file names correspond to data sets from UC Irvine Machine learning repository.
