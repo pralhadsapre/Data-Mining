@@ -1,5 +1,5 @@
 # Data-Mining
-Various projects related to Data Mining
+These are the projects I have done related to Data Mining
 
 Curse of Dimensionality
 This demonstrates through a curve how distance amongst data points becomes insignificant as the number of dimensions increases
