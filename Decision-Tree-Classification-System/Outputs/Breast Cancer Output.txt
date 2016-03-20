@@ -1,0 +1,33 @@
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Breast Cancer).py" "Breast Cancer/breastcancer.data" 9 1
+16 rows dropped
+Classified correctly 39 / 68
+Classified correctly 50 / 69
+Classified correctly 56 / 68
+Classified correctly 49 / 68
+Classified correctly 40 / 69
+Classified correctly 60 / 68
+Classified correctly 63 / 68
+Classified correctly 64 / 68
+Classified correctly 63 / 69
+Classified correctly 65 / 68
+Dataset : Breast Cancer/breastcancer.data
+Impurity measure : Gini
+Accuracy was 80%
+
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Breast Cancer).py" "Breast Cancer/breastcancer.data" 9 2
+16 rows dropped
+Classified correctly 38 / 68
+Classified correctly 52 / 69
+Classified correctly 56 / 68
+Classified correctly 51 / 68
+Classified correctly 52 / 69
+Classified correctly 64 / 68
+Classified correctly 64 / 68
+Classified correctly 63 / 68
+Classified correctly 65 / 69
+Classified correctly 65 / 68
+Dataset : Breast Cancer/breastcancer.data
+Impurity measure : Information Gain
+Accuracy was 83%
+
+E:\IU\Semester 2\Data Mining\HW2>

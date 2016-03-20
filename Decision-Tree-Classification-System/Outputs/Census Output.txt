@@ -1,0 +1,31 @@
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Census).py" Census/adult.data 11 1
+0 rows dropped
+Classified correctly 2442 / 3256
+Classified correctly 2376 / 3256
+Classified correctly 2356 / 3256
+Classified correctly 2427 / 3256
+Classified correctly 2313 / 3257
+Classified correctly 2360 / 3256
+Classified correctly 2355 / 3256
+Classified correctly 2422 / 3256
+Classified correctly 2458 / 3256
+Classified correctly 2352 / 3256
+Dataset : Census/adult.data
+Impurity measure : Gini
+Accuracy was 73%
+
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Census).py" Census/adult.data 11 2
+0 rows dropped
+Classified correctly 2457 / 3256
+Classified correctly 2524 / 3256
+Classified correctly 2402 / 3256
+Classified correctly 2425 / 3256
+Classified correctly 2485 / 3257
+Classified correctly 2350 / 3256
+Classified correctly 2442 / 3256
+Classified correctly 2519 / 3256
+Classified correctly 2464 / 3256
+Classified correctly 2422 / 3256
+Dataset : Census/adult.data
+Impurity measure : Information Gain
+Accuracy was 75%

@@ -1,0 +1,31 @@
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Car).py" "Car Evaluation/car.data" 6 1
+0 rows dropped
+Classified correctly 172 / 173
+Classified correctly 137 / 173
+Classified correctly 169 / 172
+Classified correctly 137 / 173
+Classified correctly 165 / 173
+Classified correctly 169 / 173
+Classified correctly 123 / 173
+Classified correctly 129 / 172
+Classified correctly 136 / 173
+Classified correctly 155 / 173
+Dataset : Car Evaluation/car.data
+Impurity measure : Gini
+Accuracy was 86%
+
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Car).py" "Car Evaluation/car.data" 6 2
+0 rows dropped
+Classified correctly 172 / 173
+Classified correctly 137 / 173
+Classified correctly 171 / 172
+Classified correctly 137 / 173
+Classified correctly 165 / 173
+Classified correctly 169 / 173
+Classified correctly 149 / 173
+Classified correctly 161 / 172
+Classified correctly 146 / 173
+Classified correctly 145 / 173
+Dataset : Car Evaluation/car.data
+Impurity measure : Information Gain
+Accuracy was 89%

@@ -1,0 +1,31 @@
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Contraceptive).py" "Contraceptive/cmc.data" 9 1
+0 rows dropped
+Classified correctly 136 / 147
+Classified correctly 142 / 148
+Classified correctly 115 / 147
+Classified correctly 15 / 147
+Classified correctly 42 / 148
+Classified correctly 2 / 147
+Classified correctly 30 / 147
+Classified correctly 133 / 147
+Classified correctly 37 / 148
+Classified correctly 21 / 147
+Dataset : Contraceptive/cmc.data
+Impurity measure : Gini
+Accuracy was 45%
+
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Contraceptive).py" "Contraceptive/cmc.data" 9 2
+0 rows dropped
+Classified correctly 134 / 147
+Classified correctly 142 / 148
+Classified correctly 114 / 147
+Classified correctly 41 / 147
+Classified correctly 5 / 148
+Classified correctly 3 / 147
+Classified correctly 30 / 147
+Classified correctly 140 / 147
+Classified correctly 37 / 148
+Classified correctly 19 / 147
+Dataset : Contraceptive/cmc.data
+Impurity measure : Information Gain
+Accuracy was 45%

@@ -1,0 +1,31 @@
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Iris).py" "Iris/iris.data" 4 1
+0 rows dropped
+Classified correctly 15 / 15
+Classified correctly 15 / 15
+Classified correctly 15 / 15
+Classified correctly 11 / 15
+Classified correctly 5 / 15
+Classified correctly 3 / 15
+Classified correctly 3 / 15
+Classified correctly 13 / 15
+Classified correctly 9 / 15
+Classified correctly 1 / 15
+Dataset : Iris/iris.data
+Impurity measure : Gini
+Accuracy was 60%
+
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Iris).py" "Iris/iris.data" 4 2
+0 rows dropped
+Classified correctly 15 / 15
+Classified correctly 15 / 15
+Classified correctly 15 / 15
+Classified correctly 11 / 15
+Classified correctly 5 / 15
+Classified correctly 3 / 15
+Classified correctly 3 / 15
+Classified correctly 13 / 15
+Classified correctly 8 / 15
+Classified correctly 1 / 15
+Dataset : Iris/iris.data
+Impurity measure : Information Gain
+Accuracy was 59%

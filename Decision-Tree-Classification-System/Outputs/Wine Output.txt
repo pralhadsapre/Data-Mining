@@ -1,0 +1,31 @@
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Wine).py" Wine/wine.data 0 1
+0 rows dropped
+Classified correctly 14 / 18
+Classified correctly 13 / 18
+Classified correctly 0 / 17
+Classified correctly 10 / 18
+Classified correctly 11 / 18
+Classified correctly 17 / 18
+Classified correctly 3 / 18
+Classified correctly 12 / 17
+Classified correctly 18 / 18
+Classified correctly 18 / 18
+Dataset : Wine/wine.data
+Impurity measure : Gini
+Accuracy was 65%
+
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Wine).py" Wine/wine.data 0 2
+0 rows dropped
+Classified correctly 14 / 18
+Classified correctly 12 / 18
+Classified correctly 0 / 17
+Classified correctly 10 / 18
+Classified correctly 2 / 18
+Classified correctly 17 / 18
+Classified correctly 0 / 18
+Classified correctly 12 / 17
+Classified correctly 18 / 18
+Classified correctly 18 / 18
+Dataset : Wine/wine.data
+Impurity measure : Information Gain
+Accuracy was 57%

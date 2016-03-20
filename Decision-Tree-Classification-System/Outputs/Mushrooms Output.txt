@@ -1,0 +1,31 @@
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Mushrooms).py" Mushroom/mushrooms.data 0 1
+0 rows dropped
+Classified correctly 812 / 812
+Classified correctly 813 / 813
+Classified correctly 812 / 812
+Classified correctly 813 / 813
+Classified correctly 812 / 812
+Classified correctly 812 / 812
+Classified correctly 544 / 813
+Classified correctly 777 / 812
+Classified correctly 811 / 813
+Classified correctly 806 / 812
+Dataset : Mushroom/mushrooms.data
+Impurity measure : Gini
+Accuracy was 96%
+
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Mushrooms).py" Mushroom/mushrooms.data 0 2
+0 rows dropped
+Classified correctly 812 / 812
+Classified correctly 813 / 813
+Classified correctly 812 / 812
+Classified correctly 813 / 813
+Classified correctly 812 / 812
+Classified correctly 812 / 812
+Classified correctly 813 / 813
+Classified correctly 797 / 812
+Classified correctly 716 / 813
+Classified correctly 806 / 812
+Dataset : Mushroom/mushrooms.data
+Impurity measure : Information Gain
+Accuracy was 98%

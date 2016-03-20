@@ -1,0 +1,31 @@
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Credit).py" "Credit Data/german.data" 20 1
+0 rows dropped
+Classified correctly 75 / 100
+Classified correctly 60 / 100
+Classified correctly 69 / 100
+Classified correctly 69 / 100
+Classified correctly 62 / 100
+Classified correctly 63 / 100
+Classified correctly 60 / 100
+Classified correctly 65 / 100
+Classified correctly 48 / 100
+Classified correctly 70 / 100
+Dataset : Credit Data/german.data
+Impurity measure : Gini
+Accuracy was 64%
+
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Credit).py" "Credit Data/german.data" 20 2
+0 rows dropped
+Classified correctly 78 / 100
+Classified correctly 53 / 100
+Classified correctly 67 / 100
+Classified correctly 75 / 100
+Classified correctly 56 / 100
+Classified correctly 66 / 100
+Classified correctly 61 / 100
+Classified correctly 63 / 100
+Classified correctly 76 / 100
+Classified correctly 68 / 100
+Dataset : Credit Data/german.data
+Impurity measure : Information Gain
+Accuracy was 66%

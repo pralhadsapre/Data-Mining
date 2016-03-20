@@ -1,0 +1,31 @@
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Phishing).py" Phishing/phishing.data 29 1
+0 rows dropped
+Classified correctly 1095 / 1106
+Classified correctly 1084 / 1105
+Classified correctly 993 / 1106
+Classified correctly 1085 / 1105
+Classified correctly 1006 / 1106
+Classified correctly 995 / 1105
+Classified correctly 995 / 1106
+Classified correctly 992 / 1105
+Classified correctly 1020 / 1106
+Classified correctly 1039 / 1105
+Dataset : Phishing/phishing.data
+Impurity measure : Gini
+Accuracy was 93%
+
+E:\IU\Semester 2\Data Mining\HW2>python "DecisionTree (Phishing).py" Phishing/phishing.data 29 2
+0 rows dropped
+Classified correctly 1090 / 1106
+Classified correctly 1088 / 1105
+Classified correctly 1007 / 1106
+Classified correctly 1088 / 1105
+Classified correctly 1019 / 1106
+Classified correctly 981 / 1105
+Classified correctly 974 / 1106
+Classified correctly 989 / 1105
+Classified correctly 1028 / 1106
+Classified correctly 1045 / 1105
+Dataset : Phishing/phishing.data
+Impurity measure : Information Gain
+Accuracy was 93%
